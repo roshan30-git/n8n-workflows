@@ -1,9 +1,7 @@
 # ⚡ n8n AI Automation Hub
 
-A curated collection of **24 professional-grade n8n workflows** for AI orchestration, viral cont
-
-
-ent creation, and enterprise-scale business automation.
+A curated collection of **professional-grade n8n workflows** for AI orchestration, 
+viral content creation, and enterprise-scale business automation BY ROSHAN.
 
 [![n8n](https://img.shields.io/badge/n8n-white?logo=n8n&logoColor=FF6D5B)](https://n8n.io)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai)](https://openai.com)
@@ -81,4 +79,6 @@ Resilient social media engine. Syncs editorial calendars from Sheets with media 
 
 ---
 
-**Crafted with ⚡ and n8n** | [GitHub Portfolio](https://github.com/roshan30-git)
+**Crafted with ⚡ and n8n** | 
+[Portfolio]([https://github.com/roshan30-git](https://roshan30-git.github.io/ROSHAN-portfolio/))
+
