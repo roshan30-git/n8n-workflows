@@ -2,9 +2,6 @@
 
 A curated collection of **24 professional-grade n8n workflows** for AI orchestration, viral cont
 
-```
-
-```
 
 ent creation, and enterprise-scale business automation.
 
